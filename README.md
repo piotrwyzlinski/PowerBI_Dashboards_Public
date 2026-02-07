@@ -25,7 +25,7 @@ Get instant insights with key performance indicators:
 - **💵 Median Yearly Salary** – Understand typical annual compensation
 - **⏰ Median Hourly Salary** – Compare hourly rates across positions
 
-### 📊 Visual Analytics
+### 📊 Visual Analytics 
 
 Two comprehensive bar charts provide deeper insights:
 
