@@ -4,6 +4,8 @@
 
 Welcome to the **Data Analysis Job Seeker Dashboard** – your comprehensive tool for navigating the data analytics job market! This interactive Power BI dashboard empowers job seekers to make informed career decisions by providing real-time insights into job opportunities, salary trends, and in-demand skills.
 
+![Dashboard Preview](/images/Dashboard_Screen.png)
+
 ## ✨ Key Features
 
 ### 🔍 Interactive Filters
