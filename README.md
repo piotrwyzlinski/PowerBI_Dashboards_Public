@@ -37,12 +37,28 @@ Two comprehensive bar charts provide deeper insights:
 
 ## 🎨 Skills Used to Create This Dashboard
 
-This dashboard was built using the following tools and technologies:
+This dashboard showcase the usage for skills as followed:
 
-- **Power BI Desktop** 💻 – Primary development platform
-- **Power Query (M Language)** 🔄 – Data transformation and cleaning
-- **DAX (Data Analysis Expressions)** 📐 – Custom measures and calculations
-- **Data Modeling** 🗂️ – Relationship management and schema design
-- **Power BI Visualizations** 📉 – Bar charts, cards, and slicers
-- **UI/UX Design** 🎨 – Dashboard layout and user experience optimization
-- **Data Analysis** 📊 – Statistical analysis and insights generation
+### 🎨 Dashboard Design & User Experience (UX)
+
+- **✨ Visual Layout:** Designing an intuitive and clean dashboard interface.
+- **📊 Chart Optimization:** Ensuring visuals are clear, readable, and effectively convey insights.
+- **🔢 KPI Cards:** Highlighting key performance indicators for at-a-glance understanding.
+- **🎚️ Slicers:** Implementing interactive data filtering for users.
+- **🖱️ Buttons:** Utilizing buttons for enhanced navigation or report actions.
+
+---
+
+### ⚙️ Data Modeling & Preparation
+
+- **🛠️ Power Query ETL:** Performing data cleaning, transformation, and shaping using Query Design principles.
+- **⭐ Star Schema:** Implementing an optimized star schema based on Star Schema Analysis.
+- **🔗 Relationships:** Defining and managing data table relationships effectively.
+
+---
+
+### 🧮 DAX (Data Analysis Expressions)
+
+- **💡 Explicit Measures:** Crafting custom DAX formulas for specific calculations and KPIs.
+- **🔍 DAX Filtering:** Applying advanced filter logic within your DAX measures.
+- **⚙️ Parameter Integration:** Using parameters dynamically within visualization analysis.
